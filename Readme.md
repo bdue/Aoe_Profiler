@@ -6,8 +6,6 @@ http://www.fabrizio-branca.de/magento-profiler.html
 
 ## Usage
 
-Copy the aoe_profiler.xml.sample file to var/aoe_profiler.xml and find some documentation on what the settings mean in that file.
-
 Find some more settings in System > Configuration > Developer > Debug > Profiler.
 
 ## Enable database profiling
